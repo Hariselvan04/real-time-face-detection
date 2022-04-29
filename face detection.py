@@ -25,6 +25,3 @@ while True:
         break
 cap.release() #switch off camera
 cv2.destroyAllWindows() #closing all windows created using cv2 library
-
-
-

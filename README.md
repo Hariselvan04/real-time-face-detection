@@ -10,5 +10,7 @@ pip install numpy
 ```
 >opencv
 ```
-pip install opencv
+pip install opencv-python
+
+pip install opencv-contrib-python
 ```
